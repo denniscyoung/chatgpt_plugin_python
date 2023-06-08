@@ -9,15 +9,15 @@
     "type": "service_http",
     "authorization_type": "bearer",
     "verification_tokens": {
-      "openai": "<your-openai-token>"
+      "openai": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiRGVubmlzIFlvdW5nIn0.vvb1mDbtZlVKBrbY9YavRHh1ypJ87D7G4LVf2XOKiOI"
     }
   },
    "api": {
     "type": "openapi",
-    "url": "https://<your-replit-app-name>.<your-replit-username>.repl.co/openapi.yaml",
+    "url": "https://ToDoList.denniscyoung.repl.co/openapi.yaml",
     "is_user_authenticated": false
   },
-  "logo_url": "https://example.com/logo.png",
-  "contact_email": "<your-email-address>",
+  "logo_url": "http://codeskulptor-demos.commondatastorage.googleapis.com/pang/NljADnB.png",
+  "contact_email": "denniscyoung@yahoo.com",
   "legal_info_url": "http://www.example.com/legal"
 }
